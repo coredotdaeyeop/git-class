@@ -1,6 +1,3 @@
-import os
-
-
 class Student:
     def __init__(self, name, age, grade):
         self.name = name
